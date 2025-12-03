@@ -1,0 +1,3 @@
+Notes for feature-update:
+- Added extra explanation about branching.
+- Example change to demonstrate a feature branch.
